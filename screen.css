@@ -1,1 +1,58 @@
 /* Add screen styles below */
+body {
+    background: #F7EDF0;
+
+}
+
+.header {
+    
+
+}
+
+h1 {
+    background: #F4AFAB;
+    color: #1B2021;
+    font-family: 'Josefin Sans';
+    font-size: 84px;
+    padding: 40px;
+    margin-top: 0px;
+}
+
+h2 {
+    color: #1B2021;
+    font-family: 'Josefin Sans';
+    font-size: 84px;
+    font-weight: semi-bold;
+    padding: 20px;
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h3 {
+    color: #F4AFAB;
+    font-family: 'Josefin Sans';
+    font-size: 64px;
+    font-weight: medium;
+    padding-top: 60px;
+    text-align: left;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+p {
+    color: #1B2021;
+    font-family: 'Josefin Sans';
+    font-size: 32px;
+    font-weight: light;
+    line-height: 50px;
+    margin-top: 0px;
+}
+
+img {
+    height: 400px;
+    width: 371px;
+    float: left;
+    padding: 20px;
+    margin-left: 100px;
+}

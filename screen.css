@@ -1,12 +1,6 @@
 /* Add screen styles below */
 body {
     background: #F7EDF0;
-
-}
-
-.header {
-    
-
 }
 
 h1 {
@@ -22,7 +16,7 @@ h2 {
     color: #1B2021;
     font-family: 'Josefin Sans';
     font-size: 84px;
-    font-weight: semi-bold;
+    font-weight: bold;
     padding: 20px;
     text-align: center;
     width: 1000px;
@@ -33,7 +27,7 @@ h3 {
     color: #F4AFAB;
     font-family: 'Josefin Sans';
     font-size: 64px;
-    font-weight: medium;
+    font-weight: 20;
     padding-top: 60px;
     text-align: left;
     width: 1000px;
@@ -43,11 +37,12 @@ h3 {
 p {
     color: #1B2021;
     font-family: 'Josefin Sans';
-    font-size: 32px;
+    font-size: 24px;
     font-weight: light;
-    line-height: 50px;
+    line-height: 40px;
     margin-top: 0px;
-    width: 1500px;
+    text-align: left;
+    width: 1400px;
 }
 
 img {
@@ -55,5 +50,6 @@ img {
     width: 371px;
     float: left;
     padding: 20px;
-    margin-left: 100px;
+    margin-left: 300px;
+    text-align: center;
 }
